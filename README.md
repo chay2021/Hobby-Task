@@ -46,8 +46,8 @@ Determined frequency of words using `FreqDist()` function which is imported from
 
 for understanding purpose, printed all words with Frequency using ":" separator. 
 
-![print Data](printData.png)
+![print Data](https://github.com/chay2021/ICE-1/blob/main/printData.png)
 
 Finally, visualized the data in a graph. X axis indicates the keywords which are parsed from wiki page and Y-Axis indicates Frequency/Count of the words.
 
-![data visualization](Graph.png)
+![data visualization](https://github.com/chay2021/ICE-1/blob/main/Graph.png)
