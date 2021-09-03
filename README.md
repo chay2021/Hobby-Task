@@ -1,15 +1,15 @@
 ## ICE - 1 details are given below
 
-#### table of contents
+#### Table of Contents
 
 1. Overview of task
 2. Code explanation
 3. Output
 
-#### 1. Overview of task
+### 1. Overview of task
 For the given task urllib module is used to analyse the webpage to see what the page is about, the raw data is converted into token then finds the most frequent tokens later plotted into graph. ICE-1.ipynb contains code which is ready for execution.
 
-#### 2. Code explanation
+### 2. Code explanation
 
 ##### step 1: import required libraries
 Firstly, imported required python modules as given below. Following modules are required to run program successfully and to read accurate results.
@@ -42,7 +42,7 @@ Determined frequency of words using `FreqDist()` function which is imported from
 
 ![Frequency of Words](https://github.com/chay2021/ICE-1/blob/main/FrequencyOfWords.png)
 
-#### 3. Output
+### 3. Output
 
 for understanding purpose, printed all words with Frequency using ":" separator. 
 
